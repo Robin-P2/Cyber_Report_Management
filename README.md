@@ -17,7 +17,7 @@ A **Django-based Cyber Report Generator** that processes uploaded rated Excel fi
 
 ## Screen Shot
 
-| **Home Page**  | ![Homepage Screenshot]()
+| **Home Page**  | ![Homepage Screenshot](frontend/src/Dashboard.png)
 
 ## 🛠 Tech Stack
 
